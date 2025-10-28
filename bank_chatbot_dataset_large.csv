@@ -1,0 +1,1001 @@
+text,intent,response,entities
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
+what is my account balance,check_balance,💰 Please share your account number to check your balance.,account_type
+hello,greet,😃 Hello! How can I assist you today?,
+complaint about service,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+current loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+block my ATM card,block_card,🚫 Your card has been blocked successfully.,card_type
+I need a car loan,apply_loan,📝 Let's start your loan application!,loan_type
+block my ATM card,block_card,🚫 Your card has been blocked successfully.,card_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+tell me my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+current balance please,check_balance,💰 Please share your account number to check your balance.,account_type
+show my loan details,loan_info,📄 Fetching your loan details now.,loan_type
+how much money do I have,check_balance,💰 Please share your account number to check your balance.,account_type
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+close current account,close_account,🔒 Your account closure request is being processed.,account_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+transfer to my savings account,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+file a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+current balance please,check_balance,💰 Please share your account number to check your balance.,account_type
+reactivate my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+yo,greet,😃 Hello! How can I assist you today?,
+send cash,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+current loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+stop my card,block_card,🚫 Your card has been blocked successfully.,card_type
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+deactivate account,close_account,🔒 Your account closure request is being processed.,account_type
+apply for home loan,apply_loan,📝 Let's start your loan application!,loan_type
+end my banking account,close_account,🔒 Your account closure request is being processed.,account_type
+move funds,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+what’s up,greet,😃 Hello! How can I assist you today?,
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+good afternoon,greet,😃 Hello! How can I assist you today?,
+restore my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+hi,greet,😃 Hello! How can I assist you today?,
+block my ATM card,block_card,🚫 Your card has been blocked successfully.,card_type
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+make a transfer,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+open a new savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+apply for home loan,apply_loan,📝 Let's start your loan application!,loan_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+transfer to my savings account,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+complaint about service,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+raise a service complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+hi,greet,😃 Hello! How can I assist you today?,
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+block my ATM card,block_card,🚫 Your card has been blocked successfully.,card_type
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+enable my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+current loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+complaint about service,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+current balance please,check_balance,💰 Please share your account number to check your balance.,account_type
+how are you,greet,😃 Hello! How can I assist you today?,
+what is my account balance,check_balance,💰 Please share your account number to check your balance.,account_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+something is wrong with my account,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+yo,greet,😃 Hello! How can I assist you today?,
+transfer 5000 to Rahul,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+good morning,greet,😃 Hello! How can I assist you today?,
+hey,greet,😃 Hello! How can I assist you today?,
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+yo,greet,😃 Hello! How can I assist you today?,
+get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+delete my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+move funds,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+submit complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+transfer 5000 to Rahul,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+how much money do I have,check_balance,💰 Please share your account number to check your balance.,account_type
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+deactivate account,close_account,🔒 Your account closure request is being processed.,account_type
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+reactivate my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+good morning,greet,😃 Hello! How can I assist you today?,
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+can you unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+good morning,greet,😃 Hello! How can I assist you today?,
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+show my loan details,loan_info,📄 Fetching your loan details now.,loan_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+submit complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+open a new savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+send 1000 to my friend,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+how are you,greet,😃 Hello! How can I assist you today?,
+complaint about service,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+hello,greet,😃 Hello! How can I assist you today?,
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+send 1000 to my friend,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+I want to open an account,open_account,🏦 Sure! Let's open your new account.,account_type
+can I see my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+hi,greet,😃 Hello! How can I assist you today?,
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+how much loan do I have,loan_info,📄 Fetching your loan details now.,loan_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+report issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+close current account,close_account,🔒 Your account closure request is being processed.,account_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+lost my debit card,block_card,🚫 Your card has been blocked successfully.,card_type
+hey,greet,😃 Hello! How can I assist you today?,
+apply for home loan,apply_loan,📝 Let's start your loan application!,loan_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+start a loan application,apply_loan,📝 Let's start your loan application!,loan_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+deactivate account,close_account,🔒 Your account closure request is being processed.,account_type
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+register complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want to open an account,open_account,🏦 Sure! Let's open your new account.,account_type
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+submit complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+send 1000 to my friend,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+I need a car loan,apply_loan,📝 Let's start your loan application!,loan_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+enable my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+yo,greet,😃 Hello! How can I assist you today?,
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+hey there,greet,😃 Hello! How can I assist you today?,
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+how are you,greet,😃 Hello! How can I assist you today?,
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+open a fixed deposit account,open_account,🏦 Sure! Let's open your new account.,account_type
+stop my card,block_card,🚫 Your card has been blocked successfully.,card_type
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+file a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+open a new savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+lost my debit card,block_card,🚫 Your card has been blocked successfully.,card_type
+complaint about service,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+hi,greet,😃 Hello! How can I assist you today?,
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+transfer to my savings account,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+loan enquiry,loan_info,📄 Fetching your loan details now.,loan_type
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+hey,greet,😃 Hello! How can I assist you today?,
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+hi,greet,😃 Hello! How can I assist you today?,
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+loan enquiry,loan_info,📄 Fetching your loan details now.,loan_type
+activate blocked card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+end my banking account,close_account,🔒 Your account closure request is being processed.,account_type
+how are you,greet,😃 Hello! How can I assist you today?,
+hi,greet,😃 Hello! How can I assist you today?,
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+show my loan details,loan_info,📄 Fetching your loan details now.,loan_type
+block my ATM card,block_card,🚫 Your card has been blocked successfully.,card_type
+block my card,block_card,🚫 Your card has been blocked successfully.,card_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+what is my account balance,check_balance,💰 Please share your account number to check your balance.,account_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+how are you,greet,😃 Hello! How can I assist you today?,
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+hey,greet,😃 Hello! How can I assist you today?,
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+how much loan do I have,loan_info,📄 Fetching your loan details now.,loan_type
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+end my banking account,close_account,🔒 Your account closure request is being processed.,account_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+enable my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+register complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+what’s up,greet,😃 Hello! How can I assist you today?,
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+move funds,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+raise a service complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
+how much loan do I have,loan_info,📄 Fetching your loan details now.,loan_type
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+transfer to my savings account,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+turn on my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+complaint about service,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+I need a car loan,apply_loan,📝 Let's start your loan application!,loan_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+open a fixed deposit account,open_account,🏦 Sure! Let's open your new account.,account_type
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+yo,greet,😃 Hello! How can I assist you today?,
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+hello,greet,😃 Hello! How can I assist you today?,
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+open a new savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+enable my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+I need a car loan,apply_loan,📝 Let's start your loan application!,loan_type
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+turn on my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+need money loan,apply_loan,📝 Let's start your loan application!,loan_type
+something is wrong with my account,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+what is my account balance,check_balance,💰 Please share your account number to check your balance.,account_type
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+current balance please,check_balance,💰 Please share your account number to check your balance.,account_type
+current loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+lost my debit card,block_card,🚫 Your card has been blocked successfully.,card_type
+good morning,greet,😃 Hello! How can I assist you today?,
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+current balance please,check_balance,💰 Please share your account number to check your balance.,account_type
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+move funds,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+turn on my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+tell me my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+pay 200 to Arun,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+hey,greet,😃 Hello! How can I assist you today?,
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+how are you,greet,😃 Hello! How can I assist you today?,
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+hello,greet,😃 Hello! How can I assist you today?,
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+pay 200 to Arun,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+complaint about service,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+I misplaced my card,block_card,🚫 Your card has been blocked successfully.,card_type
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+open a fixed deposit account,open_account,🏦 Sure! Let's open your new account.,account_type
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+apply for home loan,apply_loan,📝 Let's start your loan application!,loan_type
+how much loan do I have,loan_info,📄 Fetching your loan details now.,loan_type
+transfer to my savings account,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+file a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+block my card,block_card,🚫 Your card has been blocked successfully.,card_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+file a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+raise a service complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+make a transfer,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+raise a service complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+how much money do I have,check_balance,💰 Please share your account number to check your balance.,account_type
+move funds,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+open a new savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+apply for home loan,apply_loan,📝 Let's start your loan application!,loan_type
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+how much loan do I have,loan_info,📄 Fetching your loan details now.,loan_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+something is wrong with my account,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+can I see my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+file a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+current loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+stop my card,block_card,🚫 Your card has been blocked successfully.,card_type
+move funds,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+current balance please,check_balance,💰 Please share your account number to check your balance.,account_type
+enable my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+show my loan details,loan_info,📄 Fetching your loan details now.,loan_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+make a transfer,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+yo,greet,😃 Hello! How can I assist you today?,
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+raise a service complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+pay 200 to Arun,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+show my loan details,loan_info,📄 Fetching your loan details now.,loan_type
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+report issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+hey,greet,😃 Hello! How can I assist you today?,
+delete my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+open a new savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+I want to open an account,open_account,🏦 Sure! Let's open your new account.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+how are you,greet,😃 Hello! How can I assist you today?,
+open a fixed deposit account,open_account,🏦 Sure! Let's open your new account.,account_type
+open a fixed deposit account,open_account,🏦 Sure! Let's open your new account.,account_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+I misplaced my card,block_card,🚫 Your card has been blocked successfully.,card_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+how are you,greet,😃 Hello! How can I assist you today?,
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+reactivate my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+make a transfer,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+open a new savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+can you unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+register complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+how much loan do I have,loan_info,📄 Fetching your loan details now.,loan_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+activate blocked card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+submit complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+I need a car loan,apply_loan,📝 Let's start your loan application!,loan_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+transfer 5000 to Rahul,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+stop my card,block_card,🚫 Your card has been blocked successfully.,card_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+yo,greet,😃 Hello! How can I assist you today?,
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+good morning,greet,😃 Hello! How can I assist you today?,
+block my card,block_card,🚫 Your card has been blocked successfully.,card_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
+show my loan details,loan_info,📄 Fetching your loan details now.,loan_type
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+what is my account balance,check_balance,💰 Please share your account number to check your balance.,account_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+block my card,block_card,🚫 Your card has been blocked successfully.,card_type
+hey,greet,😃 Hello! How can I assist you today?,
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+how much money do I have,check_balance,💰 Please share your account number to check your balance.,account_type
+turn on my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+hey,greet,😃 Hello! How can I assist you today?,
+yo,greet,😃 Hello! How can I assist you today?,
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+transfer to my savings account,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+activate blocked card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+I misplaced my card,block_card,🚫 Your card has been blocked successfully.,card_type
+send cash,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+block my ATM card,block_card,🚫 Your card has been blocked successfully.,card_type
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+transfer to my savings account,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+block my card,block_card,🚫 Your card has been blocked successfully.,card_type
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+I misplaced my card,block_card,🚫 Your card has been blocked successfully.,card_type
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+stop my card,block_card,🚫 Your card has been blocked successfully.,card_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+hey,greet,😃 Hello! How can I assist you today?,
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+register complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+turn on my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+hi,greet,😃 Hello! How can I assist you today?,
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+make a transfer,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+how much loan do I have,loan_info,📄 Fetching your loan details now.,loan_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+yo,greet,😃 Hello! How can I assist you today?,
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+how much loan do I have,loan_info,📄 Fetching your loan details now.,loan_type
+current loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+activate blocked card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+can I see my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+apply for home loan,apply_loan,📝 Let's start your loan application!,loan_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+submit complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+block my ATM card,block_card,🚫 Your card has been blocked successfully.,card_type
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+hey,greet,😃 Hello! How can I assist you today?,
+current loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+I misplaced my card,block_card,🚫 Your card has been blocked successfully.,card_type
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+make a transfer,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+how are you,greet,😃 Hello! How can I assist you today?,
+report issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+hi,greet,😃 Hello! How can I assist you today?,
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+move funds,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+hey,greet,😃 Hello! How can I assist you today?,
+what’s up,greet,😃 Hello! How can I assist you today?,
+raise a service complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+make a transfer,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+how are you,greet,😃 Hello! How can I assist you today?,
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+what’s up,greet,😃 Hello! How can I assist you today?,
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+loan enquiry,loan_info,📄 Fetching your loan details now.,loan_type
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+something is wrong with my account,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+current loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+send 1000 to my friend,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+delete my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+restore my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+transfer 5000 to Rahul,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+stop my card,block_card,🚫 Your card has been blocked successfully.,card_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+reactivate my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+hey there,greet,😃 Hello! How can I assist you today?,
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+send cash,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+start a loan application,apply_loan,📝 Let's start your loan application!,loan_type
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+tell me my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+can I see my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+raise a service complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+yo,greet,😃 Hello! How can I assist you today?,
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+deactivate account,close_account,🔒 Your account closure request is being processed.,account_type
+good evening,greet,😃 Hello! How can I assist you today?,
+yo,greet,😃 Hello! How can I assist you today?,
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+send 1000 to my friend,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+report issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+activate blocked card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+end my banking account,close_account,🔒 Your account closure request is being processed.,account_type
+enable my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+current loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+something is wrong with my account,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+turn on my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+I want to open an account,open_account,🏦 Sure! Let's open your new account.,account_type
+activate blocked card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+block my ATM card,block_card,🚫 Your card has been blocked successfully.,card_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+send 1000 to my friend,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+restore my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+restore my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+register complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+hey there,greet,😃 Hello! How can I assist you today?,
+submit complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+activate blocked card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+hey,greet,😃 Hello! How can I assist you today?,
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+delete my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+move funds,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+current balance please,check_balance,💰 Please share your account number to check your balance.,account_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+hello,greet,😃 Hello! How can I assist you today?,
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+close current account,close_account,🔒 Your account closure request is being processed.,account_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+open a new savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+how are you,greet,😃 Hello! How can I assist you today?,
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+yo,greet,😃 Hello! How can I assist you today?,
+loan balance,loan_info,📄 Fetching your loan details now.,loan_type
+can I create a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+open a fixed deposit account,open_account,🏦 Sure! Let's open your new account.,account_type
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+current balance please,check_balance,💰 Please share your account number to check your balance.,account_type
+yo,greet,😃 Hello! How can I assist you today?,
+turn on my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+block my card,block_card,🚫 Your card has been blocked successfully.,card_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+report a transaction issue,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+card not working enable it,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+raise a service complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+remove my account,close_account,🔒 Your account closure request is being processed.,account_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+end my banking account,close_account,🔒 Your account closure request is being processed.,account_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+start a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+open a new savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+apply for education loan,apply_loan,📝 Let's start your loan application!,loan_type
+complaint about service,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+activate blocked card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+move funds,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+register for new account,open_account,🏦 Sure! Let's open your new account.,account_type
+block my card,block_card,🚫 Your card has been blocked successfully.,card_type
+show my loan details,loan_info,📄 Fetching your loan details now.,loan_type
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+hey there,greet,😃 Hello! How can I assist you today?,
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+what is my loan amount,loan_info,📄 Fetching your loan details now.,loan_type
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+activate blocked card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+apply for personal loan,apply_loan,📝 Let's start your loan application!,loan_type
+lost my debit card,block_card,🚫 Your card has been blocked successfully.,card_type
+can I get a loan,apply_loan,📝 Let's start your loan application!,loan_type
+yo,greet,😃 Hello! How can I assist you today?,
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+make a payment,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+good afternoon,greet,😃 Hello! How can I assist you today?,
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+register complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+end my banking account,close_account,🔒 Your account closure request is being processed.,account_type
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+disable my card,block_card,🚫 Your card has been blocked successfully.,card_type
+something is wrong with my account,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+how to apply for loan,apply_loan,📝 Let's start your loan application!,loan_type
+enable my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+something is wrong with my account,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+how are you,greet,😃 Hello! How can I assist you today?,
+good morning,greet,😃 Hello! How can I assist you today?,
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+tell me my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+hey there,greet,😃 Hello! How can I assist you today?,
+pay 200 to Arun,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+hello,greet,😃 Hello! How can I assist you today?,
+hey,greet,😃 Hello! How can I assist you today?,
+hi,greet,😃 Hello! How can I assist you today?,
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+what is my account balance,check_balance,💰 Please share your account number to check your balance.,account_type
+current balance please,check_balance,💰 Please share your account number to check your balance.,account_type
+deactivate account,close_account,🔒 Your account closure request is being processed.,account_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+how much money do I have,check_balance,💰 Please share your account number to check your balance.,account_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+open current account,open_account,🏦 Sure! Let's open your new account.,account_type
+something is wrong with my account,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+end my banking account,close_account,🔒 Your account closure request is being processed.,account_type
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+what is my account balance,check_balance,💰 Please share your account number to check your balance.,account_type
+unblock my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+start a loan application,apply_loan,📝 Let's start your loan application!,loan_type
+shut down my account,close_account,🔒 Your account closure request is being processed.,account_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+loan account details,loan_info,📄 Fetching your loan details now.,loan_type
+file a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+good afternoon,greet,😃 Hello! How can I assist you today?,
+register complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+lost my credit card,block_card,🚫 Your card has been blocked successfully.,card_type
+hey,greet,😃 Hello! How can I assist you today?,
+apply for home loan,apply_loan,📝 Let's start your loan application!,loan_type
+how are you,greet,😃 Hello! How can I assist you today?,
+raise a service complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+close my account,close_account,🔒 Your account closure request is being processed.,account_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+need a new account,open_account,🏦 Sure! Let's open your new account.,account_type
+can I see my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+delete my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+start a savings account,open_account,🏦 Sure! Let's open your new account.,account_type
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
+show my loan details,loan_info,📄 Fetching your loan details now.,loan_type
+turn on my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+view loan details,loan_info,📄 Fetching your loan details now.,loan_type
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+turn on my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
+transfer to my savings account,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+create new bank account,open_account,🏦 Sure! Let's open your new account.,account_type
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+I want to raise a complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+display my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+report unauthorized transaction,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+submit complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+I want to delete my account,close_account,🔒 Your account closure request is being processed.,account_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+open my card again,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+I want a gold loan,apply_loan,📝 Let's start your loan application!,loan_type
+resume my debit card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+how much loan do I have,loan_info,📄 Fetching your loan details now.,loan_type
+block my card,block_card,🚫 Your card has been blocked successfully.,card_type
+I misplaced my card,block_card,🚫 Your card has been blocked successfully.,card_type
+I need a car loan,apply_loan,📝 Let's start your loan application!,loan_type
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+good morning,greet,😃 Hello! How can I assist you today?,
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+available funds,check_balance,💰 Please share your account number to check your balance.,account_type
+check my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+hey,greet,😃 Hello! How can I assist you today?,
+hello,greet,😃 Hello! How can I assist you today?,
+loan statement,loan_info,📄 Fetching your loan details now.,loan_type
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+hello,greet,😃 Hello! How can I assist you today?,
+end my banking account,close_account,🔒 Your account closure request is being processed.,account_type
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+cancel my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+send 1000 to my friend,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+restore my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+send 1500 rupees,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+report lost card,block_card,🚫 Your card has been blocked successfully.,card_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+terminate my account,close_account,🔒 Your account closure request is being processed.,account_type
+freeze my card,block_card,🚫 Your card has been blocked successfully.,card_type
+submit complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+register complaint,complaint,⚠️ Your complaint has been registered. We’ll get back soon.,
+show my balance,check_balance,💰 Please share your account number to check your balance.,account_type
+make a transfer,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+balance enquiry,check_balance,💰 Please share your account number to check your balance.,account_type
+get my loan info,loan_info,📄 Fetching your loan details now.,loan_type
+what’s up,greet,😃 Hello! How can I assist you today?,
+transfer money to John,transfer_money,💸 Please confirm recipient name and amount to transfer.,"amount,person_name"
+delete my bank account,close_account,🔒 Your account closure request is being processed.,account_type
+close current account,close_account,🔒 Your account closure request is being processed.,account_type
+how much money do I have,check_balance,💰 Please share your account number to check your balance.,account_type
+how are you,greet,😃 Hello! How can I assist you today?,
+enable my card,unblock_card,✅ Your card is now unblocked and ready to use.,card_type
+block my ATM card,block_card,🚫 Your card has been blocked successfully.,card_type
+cancel my card,block_card,🚫 Your card has been blocked successfully.,card_type
